@@ -1,1 +1,1 @@
-cREATE a Form by using HTML and CSS .
+Create a Form by using HTML and CSS .
